@@ -1,0 +1,3 @@
+# 防暴刷配置：限制单个客户端ip最新 basetime 分钟的请求注册接口不能超过 maxnum 次
+maxnum: 100
+basetime: 60
